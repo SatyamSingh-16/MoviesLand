@@ -18,7 +18,7 @@ function NavBar() {
           to="/"
           className="text-xl font-bold text-white uppercase tracking-wider"
         >
-          MoviesLand
+          MoviesLand🍿
         </Link>
       </div>
 
